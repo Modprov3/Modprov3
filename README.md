@@ -1,4 +1,6 @@
-  <meta charset="UTF-8">
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
     <title>apk evolution</title>
     <style>
         *{
@@ -22,6 +24,7 @@
 <body>
     <body bgcolor="Grey">
 </body>
+</html>
 
 <div class="titulo">
     <h1>apk evolution</h1>
