@@ -22,7 +22,6 @@
 <body>
     <body bgcolor="Grey">
 </body>
-</html>
 
 <div class="titulo">
     <h1>apk evolution</h1>
