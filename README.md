@@ -4,20 +4,23 @@
     <meta charset="UTF-8">
     <title>apk evolution</title>
     <style>
-         .card{
-             color:red;
-             text-align: center;
-             background-color: black;
-         }
-       .titulo{
+        *{
+            
+            margin:1;
+        }
+        .titulo{
               background-color: white;
               padding:5px;
               text-align: center;
               border: 7px solid black;
-      }
-        
+            }
+            .card{
+                color: red;
+                text-align: center;
+                background-color: black;
+                border: 7px solid black;
+           }
     </style>
-    
 </head>
 <body>
     <body bgcolor="Grey">
@@ -26,31 +29,34 @@
 
 <div class="titulo">
     <h1>apk evolution</h1>
-    
 </div>
+<br>
 <div class="card">
-    <p>O apk evolution e um aplicativo muito bom e completo, ele vem com varias coisas como :
-    <br>
-    <br>
-    <br>data base de trava ;
-    <br> textos para banir número;<br>desbanir número<br>desbanir número<br>spam número<br> vários imunes;<br> consulta de dados do telefone,CEP, IP e DDD;<br> teste de velocidade do wi-fi;<br>simbolos para nomes<br>calculadora<br>edição de vídeos<br>curso hacker<br>menu hacker<br>filmes e séries<br>informações sobre seu telefone<br>kit travazap<br>respostas das matérias<br>data e hora<br>hacker de jogos<br>consulta de dados via telegram <br>ferramentas termux<br>ferramenta linux<br>bots do whatsapp<br>gerador de nick <br>fotos hacker  </p>
+    <p>O apk evolution e um apk muito completo, várias funções variadas , abaixo vou listar o que tem no menu dele:<br><br>data base de trava ;<br>textos para banir número;<br>desbanir número;<br>spam número;<br>vários imunes;<br>consulta de dados do telefone,CEP, IP e DDD;<br>teste de velocidade do wi-fi;<br>simbolos para nomes;<br>calculadora;<br>edição de vídeos;<br>curso hacker;<br>filmes e séries;<br> edição de vídeos;<br>menu hacker;<br>informações sobre seu telefone;<br>kit travazap;<br>respostas das matérias;<br>data e hora;<br>
+hacker de jogos;<br>consulta de dados via telegram;<br>
+ferramentas termux;<br>
+ferramenta linux;<br>bots do whatsapp;<br>
+gerador de nick;<br>
+fotos hacker;<br>
+    </p>
 </div>
+<br>
 <div class="titulo">
-    <h1>donos do apk</h1>
+    <h1>Equipe do apk</h1>
 </div>
+<br>
 <div class="card">
-    <p>Guilherme e o dono oficial do apk , ele manja de hacker e programação, ele e dono do apk junto de biel e João.</p>
+    <p>Guilherme e o dono oficial do apk, Guilherme maja de programação e hacking, no celular ele não proporciona ferramentas para o mal , e sim ferramentas que ajudam as pessoas contra golpista, entre outros usuários do mal.</p>
 </div>
-
-
+<br>
 <div class="card">
-   <p>biel e um bom programador e sabe um pouco sobre hacking, ele desenvolveu esse site e também um site para travas zaps, ele faz parte da aquipe junto com João e Guilherme</p>
+    <p>Biel faz parte da aquipe do apk , ele sabe um pouco sobre hacking e é um bom programador, muito determinado naquilo que deseja , ele não proporciona nenhuma ferramenta para o mal, inclusive ele que programou esse site .</p>
 </div>
-
+<br>
 <div class="card">
-    <p>João, como um dos seus grandes sonhos ele é um verdadeiro hacker , ele faipz parte da aquipe junto com Guilherme e Biel, e ajuda dando sugestões e divulgando o apk.</p>
+    <p>João faz parte da aquipe do apk , como um dos seus maiores sonhos ele e um verdadeiro hacker, paciência? Mais ou menos, mais se chamar a mãe dele o bagulho vira outro nivel.</p>
 </div>
-3079.png" width="360px">
+<br>
 <div class="card">
-    <p>esse e João, como um dos seus grandes sonhos ele é um verdadeiro hacker , ele faz parte da aquipe junto com Guilherme e Biel, e ajuda dando sugestões e divulgando o apk.</p>
+    <p>obs:nossa aquipe proporciona ferramentas para o bem e o alto conhecimento, o que você faz com elas não e responsabilidade nem do Guilherme, nem do Biel , e nem do João, apenas responsabilidade sua.</p>
 </div>
